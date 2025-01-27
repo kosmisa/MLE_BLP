@@ -16,8 +16,6 @@ COPY data/ /app/data
 COPY training /app/training
 
 # Copy utils.py
-COPY utils.py /app
-COPY ${CONF_PATH} /app
 
 # Install any necessary packages listed in requirements.txt
 COPY requirements.txt ./
