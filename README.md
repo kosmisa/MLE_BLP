@@ -2,9 +2,11 @@
 
 I am sorry due to very little time i had to spend on this HW i got confused and was unable to resolve the problems i had with homework in time. 
 
-First problem i was unable to overcome in time is env setup. Somehow i keep getting errors on commands i want to call for pandas on VSC eventhought i am setting venv. separately from global.
+First problem i was unable to overcome is env setup. Somehow i kept getting errors for global and local env. . Even thought i think i made local env to avoid conflict i was unable to to resolve errors that kept poping up. I will redo my MLE part and try to find extra sources to deal with it.
 
-Second problem is not spending enough time to work on problem, due to political nature in my country that is affecting both my work and university activities i found my self in situation that i have even less time to work on homework. I need to use iris data from sklearn but my template is focused on generating syntetic data and i failed to adapt that code to extract data
+Second problem is not spending enough time to work on problems, due to political nature in my country that is affecting both my work and university activities i found my self in situation that i have even less time to work on homework. I need to use iris data from sklearn but my template is focused on generating syntetic data and i failed to adapt that code to extract data.
+
+I understood the concepts in this part but due to many factors was unable to implement it right. I started from given template and kept deleting many times due to losing track what i change and what i did not. 
 
 
 Project structure:
